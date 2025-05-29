@@ -1,5 +1,5 @@
-![Screenshot 2025-03-27 161808](https://github.com/user-attachments/assets/a6b00fd8-2b54-4872-858e-3a717842e449)
-![Screenshot 2025-03-27 161751](https://github.com/user-attachments/assets/b47a6001-38cd-4cff-9aaf-dff641c8cf7e)
+
+
 # .env=> 
 PORT =5001
 JWT_SECRET="dfgyhuiopighfhjklnbvcbnm,"
